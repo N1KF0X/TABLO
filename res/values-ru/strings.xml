@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Спортивные соревнования</string>
+    <string name="button_add_point_to_20it17">Добавить очко\nгруппе 20ИТ17</string>
+    <string name="button_add_point_to_20it19">Добавить очко\nгруппе 20ИТ19</string>
+    <string name="reset_button">Сброс</string>
+</resources>
